@@ -11,20 +11,14 @@
 
 <!-- SOCIALS -->
 <p align="center">
-  <a href="https://linkedin.com/in/sandeep-bist" target="_blank">
+  <a href="https://linkedin.com/in/sandeep-bist-984936291" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:sandeepbist.dev@gmail.com">
+  <a href="mailto:sbist738@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://portfolio.com">
+  <a href="https://sandeepbist.vercel.app">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/sandeepbist/">
-    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://twitter.com/sandeepbist">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
 
@@ -138,33 +132,11 @@
 
 ---
 
-<!-- SPOTIFY -->
-<details open> 
-  <summary><h2>🎵 Currently Listening</h2></summary>
-  <p align="center">
-    <a href="https://open.spotify.com/user/y49b9tpk9e7mhzwjpp19bea3o">
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=y49b9tpk9e7mhzwjpp19bea3o&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" />
-    </a>
-  </p>
-</details>
-
----
-
 <!-- COOL EXTRA -->
 <details open>
-  <summary><h2>🌍 Where are visitors from?</h2></summary>
+  <summary><h2>🌍 Profile Visitors</h2></summary>
   <p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=sandeepbist&label=Profile%20Visitors&color=12&icon=5&pretty=true" />
-  </p>
-</details>
-
----
-
-<!-- VIEWS -->
-<details open> 
-  <summary><h2>👀 Profile Views</h2></summary>
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=sandeepbist&style=flat-square&color=blue" alt="Profile views"/>
+    <img src="https://count.getloli.com/get/@sandeepbist" alt="Visitor Count" />
   </p>
 </details>
 
