@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20There!👋&fontSize=70&animation=fadeIn&fontAlignY=35&desc=I'm%20Sandeep%20Bist&descSize=20&descAlignY=55" alt="Header" />
 
 </div>
-<h1 align="center">🚀 Explorer of Ideas & Digital Magic</h1>
+<h1 align="center">🚀 Full-Stack Developer Crafting Magic in Code</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Turning+Dreams+into+Code;Building+Fun+and+Impactful+Projects;Solving+Problems+Creatively;Learning+Something+New+Every+Day;Making+Code+Exciting+and+Meaningful" alt="Typing SVG" />
