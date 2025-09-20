@@ -1,8 +1,5 @@
 <div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hey%20There!%20👋&fontSize=72&animation=twinkling&fontAlignY=40&desc=I'm%20Sandeep%20Bist%20|%20Full-Stack%20Developer&descSize=24&descAlignY=75" 
-    alt="Header" 
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20There!👋&fontSize=70&animation=fadeIn&fontAlignY=35&desc=I'm%20Sandeep%20Bist&descSize=20&descAlignY=55" alt="Header" />
 
 </div>
 <h1 align="center">🚀 Full-Stack Developer Crafting Magic in Code</h1>
