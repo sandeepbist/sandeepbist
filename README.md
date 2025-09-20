@@ -1,49 +1,59 @@
-# 👋 Hey there, I’m **Sandeep Bist**
+# 👋 Hey, I'm Sandeep Bist  
 
-  ____              _             
- / ___|  ___   __ _(_)_ __   ___  
- \___ \ / _ \ / _` | | '_ \ / _ \ 
-  ___) | (_) | (_| | | | | |  __/ 
- |____/ \___/ \__, |_|_| |_|\___| 
-              |___/               
-
-### ⚡ Code that slaps. Websites that go brrr.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DDC84&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Always+Learning+%26+Building)](https://git.io/typing-svg)
 
 ---
 
 ## 🚀 About Me  
-- Full-stack developer who loves building sleek, performant, and user-friendly apps.  
-- Passionate about blending **design and engineering** for pixel-perfect experiences.  
-- Big fan of crafting products that are **as fun to use as they are reliable**.  
-- Outside of code, you’ll find me exploring tech trends, playing chess, or gaming late at night.  
+- 🔭 Currently working on **React Native + Next.js projects**  
+- 🌱 Learning advanced **system design & backend scaling**  
+- 💡 Passionate about **building impactful apps**  
+- ⚡ Fun fact: I break things just to fix them better!  
 
 ---
 
-## 🛠️ Tech Playground  
+## 🔥 GitHub Stats  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,svelte,tailwind,nodejs,postgres,prisma,docker,git" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sandeepbist&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sandeepbist&theme=tokyonight&hide_border=false" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepbist&layout=compact&theme=tokyonight" height="150em"/>
 </p>
 
 ---
 
-## 📊 GitHub Vibes  
+## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandeepbist&show_icons=true&theme=radical" alt="stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepbist&theme=radical" alt="streaks" height="165" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,reactnative,nextjs,tailwind,expo,html,css,nodejs,express,postgres,prisma,docker,aws,git,github" />
 </p>
 
 ---
 
-## 🎉 Fun Zone  
-
-> 💡 _Clicking “Go Brrr” is still my favorite bug fix._  
+## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="300">
+  <img src="https://github-profile-trophy.vercel.app/?username=sandeepbist&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
 
-✨ _Thanks for stopping by my profile. Let’s make the web go brrr together!_ 🚀
+## ✍️ Dev Quote of the Day  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://github.com/sandeepbist/sandeepbist/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+⭐️ From [Sandeep Bist](https://github.com/sandeepbist)
