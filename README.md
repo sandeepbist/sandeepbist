@@ -1,11 +1,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20There!👋&fontSize=70&animation=fadeIn&fontAlignY=35&desc=I'm%20Sandeep%20Bist&descSize=20&descAlignY=55" alt="Header" />
-</div>
 
-<h1 align="center">🚀 Full-Stack Developer | Creative Builder | Tech Explorer</h1>
+</div>
+<h1 align="center">🚀 Explorer of Ideas & Digital Magic</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Turning+Ideas+into+Reality;Coding+with+Creativity+%F0%9F%8E%93;Solving+Problems+One+Line+at+a+Time;Building+Fun+and+Impactful+Projects;Learning+Something+New+Every+Day+%F0%9F%8C%BF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Turning+Dreams+into+Code;Building+Fun+and+Impactful+Projects;Solving+Problems+Creatively;Learning+Something+New+Every+Day;Making+Code+Exciting+and+Meaningful" alt="Typing SVG" />
 </p>
 
 <!-- SOCIALS -->
@@ -25,16 +25,13 @@
 
 <details open> 
   <summary><h2>🌟 About Me</h2></summary>
-  <ul>
-    <li>💻 I love crafting <strong>scalable apps & beautiful UIs</strong></li>
-    <li>⚡ Currently diving deep into <strong>Full-Stack Development</strong></li>
-    <li>🌱 Always learning & exploring <strong>modern frameworks & AI tools</strong></li>
-    <li>🎯 Goal: To contribute to <strong>innovative projects at scale</strong></li>
-    <li>😎 Fun fact: My code sometimes goes <em>"Go Brrr"</em></li>
-  </ul>
+  <p align="center">
+    💡 Explorer of ideas, builder of things, and occasional bug whisperer<br/>
+    🚀 Turning coffee into code and problems into solutions<br/>
+    🌱 Always learning, failing, and leveling up<br/>
+    😎 Fun fact: My code sometimes works the first time… shockingly!
+  </p>
 </details>
-
----
 
 <details open> 
   <summary><h2>🛠️ Tech Stack</h2></summary>
