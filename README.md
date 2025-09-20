@@ -1,4 +1,3 @@
-<!-- PROFILE HEADER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20There!👋&fontSize=70&animation=fadeIn&fontAlignY=35&desc=I'm%20Sandeep%20Bist&descSize=20&descAlignY=55" alt="Header" />
 </div>
@@ -24,7 +23,6 @@
 
 ---
 
-<!-- ABOUT -->
 <details open> 
   <summary><h2>🌟 About Me</h2></summary>
   <ul>
@@ -38,7 +36,6 @@
 
 ---
 
-<!-- SKILLS -->
 <details open> 
   <summary><h2>🛠️ Tech Stack</h2></summary>
   
@@ -67,7 +64,6 @@
 
 ---
 
-<!-- STATS -->
 <details open> 
   <summary><h2>📊 GitHub Stats & Streaks</h2></summary>
   <p align="center">
@@ -82,7 +78,6 @@
 
 ---
 
-<!-- ACTIVITY GRAPH -->
 <details open> 
   <summary><h2>📈 Contribution Graph</h2></summary>
   <p align="center">
@@ -92,7 +87,6 @@
 
 ---
 
-<!-- TROPHIES -->
 <details open> 
   <summary><h2>🏆 Achievements</h2></summary>
   <p align="center">
@@ -102,7 +96,6 @@
 
 ---
 
-<!-- QUOTES -->
 <details open> 
   <summary><h2>💡 Dev Quote of the Day</h2></summary>
   <p align="center">
@@ -112,7 +105,6 @@
 
 ---
 
-<!-- FUN STUFF -->
 <details open> 
   <summary><h2>🎉 Fun Widgets</h2></summary>
   <p align="center">
@@ -132,7 +124,6 @@
 
 ---
 
-<!-- COOL EXTRA -->
 <details open>
   <summary><h2>🌍 Profile Visitors</h2></summary>
   <p align="center">
@@ -142,7 +133,6 @@
 
 ---
 
-<!-- FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&desc=Thanks%20for%20visiting!&descSize=20&descAlignY=70" alt="Footer" />
 </div>
