@@ -1,113 +1,173 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">Hey 👋, I'm Sandeep Bist</h1>
-<h3 align="center">🚀 Full-Stack Developer | Creative Builder | Tech Explorer</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20There!👋&fontSize=70&animation=fadeIn&fontAlignY=35&desc=I'm%20Sandeep%20Bist&descSize=20&descAlignY=55" alt="Header" />
+</div>
+
+<h1 align="center">🚀 Full-Stack Developer | Creative Builder | Tech Explorer</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Turning+Ideas+into+Code;Full-Stack+Developer;React+Native+%7C+Next.js+%7C+TypeScript;Always+Learning+%F0%9F%9A%80;Building+Cool+Things!" alt="Typing SVG" />
 </p>
 
+<!-- SOCIALS -->
+<p align="center">
+  <a href="https://linkedin.com/in/sandeep-bist" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sandeepbist.dev@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://portfolio.com">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/sandeepbist/">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://twitter.com/sandeepbist">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 <!-- ABOUT -->
-### 🌟 About Me
-- 💻 I love crafting **scalable apps & beautiful UIs**  
-- ⚡ Currently diving deep into **Full-Stack Development**  
-- 🌱 Always learning & exploring **modern frameworks & AI tools**  
-- 🎯 Goal: To contribute to **innovative projects at scale**  
-- 😎 Fun fact: My code sometimes goes *"Go Brrr"*  
+<details open> 
+  <summary><h2>🌟 About Me</h2></summary>
+  <ul>
+    <li>💻 I love crafting <strong>scalable apps & beautiful UIs</strong></li>
+    <li>⚡ Currently diving deep into <strong>Full-Stack Development</strong></li>
+    <li>🌱 Always learning & exploring <strong>modern frameworks & AI tools</strong></li>
+    <li>🎯 Goal: To contribute to <strong>innovative projects at scale</strong></li>
+    <li>😎 Fun fact: My code sometimes goes <em>"Go Brrr"</em></li>
+  </ul>
+</details>
 
 ---
 
 <!-- SKILLS -->
-### 🛠️ Tech Stack
+<details open> 
+  <summary><h2>🛠️ Tech Stack</h2></summary>
+  
+  **Frontend:**  
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=fff)
+  ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=fff)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=fff)
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=fff)
-![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=fff)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=fff)
+  **Backend:**  
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Drizzle](https://img.shields.io/badge/Drizzle-ffdd00?style=for-the-badge&logo=drizzle&logoColor=000)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-ffdd00?style=for-the-badge&logo=drizzle&logoColor=000)
-
-**Tools & Other:**  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=fff)
+  **Tools & Other:**  
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+  ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
+  ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=fff)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+</details>
 
 ---
 
 <!-- STATS -->
-### 📊 GitHub Stats & Streaks
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sandeepbist&show_icons=true&theme=radical" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepbist&theme=radical" height="170"/>
-</p>
+<details open> 
+  <summary><h2>📊 GitHub Stats & Streaks</h2></summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=sandeepbist&show_icons=true&theme=radical" height="170"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepbist&theme=radical" height="170"/>
+  </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepbist&layout=compact&theme=radical" height="150"/>
-</p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepbist&layout=compact&theme=radical" height="150"/>
+  </p>
+</details>
+
+---
+
+<!-- ACTIVITY GRAPH -->
+<details open> 
+  <summary><h2>📈 Contribution Graph</h2></summary>
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeepbist&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
+  </p>
+</details>
 
 ---
 
 <!-- TROPHIES -->
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sandeepbist&theme=onedark&row=1&column=7" />
-</p>
+<details open> 
+  <summary><h2>🏆 Achievements</h2></summary>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=sandeepbist&theme=onedark&row=1&column=7" />
+  </p>
+</details>
+
+---
+
+<!-- SNAKE ANIMATION -->
+<details open> 
+  <summary><h2>🐍 Contribution Snake</h2></summary>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/sandeepbist/sandeepbist/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  </p>
+</details>
 
 ---
 
 <!-- QUOTES -->
-### 💡 Dev Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
-</p>
-
----
-
-<!-- CONTRIBUTION GRAPH -->
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sandeepbist/sandeepbist/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
+<details open> 
+  <summary><h2>💡 Dev Quote of the Day</h2></summary>
+  <p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
+  </p>
+</details>
 
 ---
 
 <!-- FUN STUFF -->
-### 🎉 Fun Widgets
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandeepbist&theme=radical" />
-</p>
+<details open> 
+  <summary><h2>🎉 Fun Widgets</h2></summary>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandeepbist&theme=radical" />
+  </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sandeepbist&theme=radical" height="150"/> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sandeepbist&theme=radical" height="150"/>
-</p>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sandeepbist&theme=radical" height="150"/> 
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sandeepbist&theme=radical" height="150"/>
+  </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sandeepbist&theme=radical" height="150"/> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sandeepbist&theme=radical" height="150"/>
-</p>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sandeepbist&theme=radical" height="150"/> 
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sandeepbist&theme=radical" height="150"/>
+  </p>
+</details>
+
+---
+
+<!-- SPOTIFY -->
+<details open> 
+  <summary><h2>🎵 Currently Listening</h2></summary>
+  <p align="center">
+    [![Spotify](https://spotify-now-playing-sandeepbist.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/your_username)
+  </p>
+</details>
 
 ---
 
 <!-- VIEWS -->
-### 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandeepbist&style=flat-square&color=blue" alt="Profile views"/>
-</p>
+<details open> 
+  <summary><h2>👀 Profile Views</h2></summary>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=sandeepbist&style=flat-square&color=blue" alt="Profile views"/>
+  </p>
+</details>
 
 ---
 
-<!-- CONNECT -->
-### 🌐 Connect with Me
-<p align="center">
-<a href="https://linkedin.com/in/sandeep-bist" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:sandeepbist.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&desc=Thanks%20for%20visiting!&descSize=20&descAlignY=70" alt="Footer" />
+</div>
