@@ -55,19 +55,20 @@
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=fff)
   ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-  **Backend:**  
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Drizzle](https://img.shields.io/badge/Drizzle-ffdd00?style=for-the-badge&logo=drizzle&logoColor=000)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+**Backend:**  
+ ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-ffdd00?style=for-the-badge&logo=drizzle&logoColor=000)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-  **Tools & Other:**  
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-  ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
-  ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=fff)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+**Tools & Other:**  
+ ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 </details>
 
 ---
@@ -107,16 +108,6 @@
 
 ---
 
-<!-- SNAKE ANIMATION -->
-<details open> 
-  <summary><h2>🐍 Contribution Snake</h2></summary>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/sandeepbist/sandeepbist/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-  </p>
-</details>
-
----
-
 <!-- QUOTES -->
 <details open> 
   <summary><h2>💡 Dev Quote of the Day</h2></summary>
@@ -151,7 +142,19 @@
 <details open> 
   <summary><h2>🎵 Currently Listening</h2></summary>
   <p align="center">
-    [![Spotify](https://spotify-now-playing-sandeepbist.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/y49b9tpk9e7mhzwjpp19bea3o)
+    <a href="https://open.spotify.com/user/y49b9tpk9e7mhzwjpp19bea3o">
+      <img src="https://spotify-github-profile.vercel.app/api/view?uid=y49b9tpk9e7mhzwjpp19bea3o&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" />
+    </a>
+  </p>
+</details>
+
+---
+
+<!-- COOL EXTRA -->
+<details open>
+  <summary><h2>🌍 Where are visitors from?</h2></summary>
+  <p align="center">
+    <img src="https://visitcount.itsvg.in/api?id=sandeepbist&label=Profile%20Visitors&color=12&icon=5&pretty=true" />
   </p>
 </details>
 
