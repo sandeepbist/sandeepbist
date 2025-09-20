@@ -5,7 +5,7 @@
 <h1 align="center">🚀 Full-Stack Developer | Creative Builder | Tech Explorer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Turning+Ideas+into+Code;Full-Stack+Developer;React+Native+%7C+Next.js+%7C+TypeScript;Always+Learning+%F0%9F%9A%80;Building+Cool+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Turning+Ideas+into+Reality;Coding+with+Creativity+%F0%9F%8E%93;Solving+Problems+One+Line+at+a+Time;Building+Fun+and+Impactful+Projects;Learning+Something+New+Every+Day+%F0%9F%8C%BF" alt="Typing SVG" />
 </p>
 
 <!-- SOCIALS -->
