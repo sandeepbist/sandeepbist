@@ -151,7 +151,7 @@
 <details open> 
   <summary><h2>🎵 Currently Listening</h2></summary>
   <p align="center">
-    [![Spotify](https://spotify-now-playing-sandeepbist.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/your_username)
+    [![Spotify](https://spotify-now-playing-sandeepbist.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/y49b9tpk9e7mhzwjpp19bea3o)
   </p>
 </details>
 
