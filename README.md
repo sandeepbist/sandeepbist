@@ -7,36 +7,36 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
-        
-        {
+
+{
             margin: 0;
             padding: 0;
             box-sizing: border-box;
             font-family: 'Poppins', sans-serif;
-        }
-        
-        body {
+}
+
+body {
             background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
             color: #fff;
             line-height: 1.6;
             padding: 20px;
             overflow-x: hidden;
-        }
-        
-        .container {
+}
+
+.container {
             max-width: 1200px;
             margin: 0 auto;
         }
         
         /* Header Styles */
-        .header {
+.header {
             text-align: center;
             padding: 40px 20px;
             position: relative;
             overflow: hidden;
         }
         
-        .profile-pic {
+.profile-pic {
             width: 150px;
             height: 150px;
             border-radius: 50%;
@@ -48,13 +48,13 @@
             animation: float 6s ease-in-out infinite;
         }
         
-        .profile-pic img {
+.profile-pic img {
             width: 100%;
             height: 100%;
             object-fit: cover;
         }
         
-        .header h1 {
+.header h1 {
             font-size: 3rem;
             margin-bottom: 10px;
             background: linear-gradient(45deg, #00F7FF, #00ff95, #00F7FF);
@@ -64,19 +64,19 @@
             background-size: 200% 200%;
         }
         
-        .header h2 {
+.header h2 {
             font-size: 1.5rem;
             margin-bottom: 20px;
             color: #ccc;
         }
         
-        .typing-container {
+.typing-container {
             margin: 20px 0;
             min-height: 60px;
         }
         
         /* Section Styles */
-        .section {
+.section {
             background: rgba(255, 255, 255, 0.05);
             border-radius: 15px;
             padding: 25px;
@@ -87,12 +87,12 @@
             transition: transform 0.3s ease, box-shadow 0.3s ease;
         }
         
-        .section:hover {
+.section:hover {
             transform: translateY(-5px);
             box-shadow: 0 12px 40px rgba(0, 0, 0, 0.3);
         }
         
-        .section h2 {
+.section h2 {
             font-size: 1.8rem;
             margin-bottom: 20px;
             color: #00F7FF;
@@ -100,19 +100,19 @@
             align-items: center;
         }
         
-        .section h2 i {
+.section h2 i {
             margin-right: 10px;
         }
         
         /* Skills Grid */
-        .skills-grid {
+.skills-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
             gap: 15px;
             margin-top: 20px;
         }
         
-        .skill-item {
+.skill-item {
             background: rgba(0, 247, 255, 0.1);
             border-radius: 10px;
             padding: 15px 10px;
@@ -121,25 +121,25 @@
             border: 1px solid rgba(0, 247, 255, 0.2);
         }
         
-        .skill-item:hover {
+.skill-item:hover {
             background: rgba(0, 247, 255, 0.2);
             transform: scale(1.05);
         }
         
-        .skill-item img {
+.skill-item img {
             height: 40px;
             margin-bottom: 10px;
         }
         
         /* Stats Grid */
-        .stats-grid {
+.stats-grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
             gap: 20px;
             margin-top: 20px;
         }
         
-        .stat-card {
+.stat-card {
             background: rgba(255, 255, 255, 0.05);
             border-radius: 10px;
             padding: 20px;
@@ -147,21 +147,21 @@
             border: 1px solid rgba(255, 255, 255, 0.1);
         }
         
-        .stat-card h3 {
+.stat-card h3 {
             font-size: 1.2rem;
             margin-bottom: 10px;
             color: #00ff95;
         }
         
         /* Social Links */
-        .social-links {
+.social-links {
             display: flex;
             justify-content: center;
             gap: 20px;
             margin-top: 20px;
         }
         
-        .social-link {
+.social-link {
             display: inline-flex;
             align-items: center;
             justify-content: center;
@@ -175,36 +175,36 @@
             text-decoration: none;
         }
         
-        .social-link:hover {
+.social-link:hover {
             background: #00F7FF;
             transform: translateY(-3px);
             color: #000;
         }
         
         /* Animations */
-        @keyframes float {
+@keyframes float {
             0% { transform: translateY(0px); }
             50% { transform: translateY(-10px); }
             100% { transform: translateY(0px); }
         }
         
-        @keyframes gradient {
+@keyframes gradient {
             0% { background-position: 0% 50%; }
             50% { background-position: 100% 50%; }
             100% { background-position: 0% 50%; }
         }
         
-        @keyframes fadeIn {
+@keyframes fadeIn {
             from { opacity: 0; transform: translateY(20px); }
             to { opacity: 1; transform: translateY(0); }
         }
         
-        .animated {
+.animated {
             animation: fadeIn 1s ease-out;
         }
         
         /* Particle Background */
-        .particles {
+.particles {
             position: fixed;
             top: 0;
             left: 0;
@@ -214,14 +214,14 @@
             pointer-events: none;
         }
         
-        .particle {
+.particle {
             position: absolute;
             border-radius: 50%;
             background: rgba(0, 247, 255, 0.5);
             animation: float-particle 15s infinite linear;
         }
         
-        @keyframes float-particle {
+@keyframes float-particle {
             0% {
                 transform: translateY(0) translateX(0);
                 opacity: 0;
@@ -239,20 +239,20 @@
         }
         
         /* Responsive Design */
-        @media (max-width: 768px) {
+@media (max-width: 768px) {
             .header h1 {
                 font-size: 2.2rem;
             }
             
-            .header h2 {
+.header h2 {
                 font-size: 1.2rem;
             }
             
-            .skills-grid {
+.skills-grid {
                 grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
             }
             
-            .stats-grid {
+.stats-grid {
                 grid-template-columns: 1fr;
             }
         }
@@ -261,7 +261,7 @@
 <body>
     <div class="particles" id="particles"></div>
     
-    <div class="container">
+<div class="container">
         <header class="header animated">
             <div class="profile-pic">
                 <img src="https://avatars.githubusercontent.com/u/583231?v=4" alt="Sandeep Bist">
@@ -269,16 +269,16 @@
             <h1>Sandeep Bist</h1>
             <h2>🚀 Full-Stack Developer | Creative Builder | Tech Explorer</h2>
             
-            <div class="typing-container">
+<div class="typing-container">
                 <p id="typing-text"></p>
             </div>
-        </header>
+ </header>
         
-        <section class="section animated">
+<section class="section animated">
             <h2><i class="fas fa-user"></i> About Me</h2>
             <p>I'm a passionate full-stack developer who loves creating innovative solutions and beautiful user experiences. With expertise in modern web technologies, I enjoy turning complex problems into simple, elegant solutions.</p>
             
-            <div class="about-details">
+<div class="about-details">
                 <p><i class="fas fa-code"></i> <strong>Currently working with:</strong> React, Next.js, Node.js, TypeScript</p>
                 <p><i class="fas fa-graduation-cap"></i> <strong>Learning:</strong> Advanced backend architectures, AI integration</p>
                 <p><i class="fas fa-rocket"></i> <strong>Goals:</strong> Contribute to open source, build impactful products</p>
@@ -286,10 +286,10 @@
             </div>
         </section>
         
-        <section class="section animated">
+<section class="section animated">
             <h2><i class="fas fa-laptop-code"></i> Tech Stack</h2>
             
-            <h3>Frontend</h3>
+<h3>Frontend</h3>
             <div class="skills-grid">
                 <div class="skill-item">
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React">
@@ -309,7 +309,7 @@
                 </div>
             </div>
             
-            <h3>Backend</h3>
+<h3>Backend</h3>
             <div class="skills-grid">
                 <div class="skill-item">
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js">
@@ -329,7 +329,7 @@
                 </div>
             </div>
             
-            <h3>Tools & Others</h3>
+<h3>Tools & Others</h3>
             <div class="skills-grid">
                 <div class="skill-item">
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git">
@@ -350,10 +350,10 @@
             </div>
         </section>
         
-        <section class="section animated">
+<section class="section animated">
             <h2><i class="fas fa-chart-line"></i> GitHub Stats</h2>
             
-            <div class="stats-grid">
+<div class="stats-grid">
                 <div class="stat-card">
                     <h3>Commit Streak</h3>
                     <p>🔥 125 days</p>
@@ -372,7 +372,7 @@
                 </div>
             </div>
             
-            <div class="stats-grid">
+<div class="stats-grid">
                 <div class="stat-card">
                     <h3>Most Used Languages</h3>
                     <p>JavaScript: 45%</p>
@@ -383,10 +383,10 @@
             </div>
         </section>
         
-        <section class="section animated">
+<section class="section animated">
             <h2><i class="fas fa-trophy"></i> Achievements</h2>
             
-            <div class="skills-grid">
+<div class="skills-grid">
                 <div class="skill-item">
                     <i class="fas fa-code-branch fa-2x"></i>
                     <span>Hackathon Winner</span>
@@ -406,7 +406,7 @@
             </div>
         </section>
         
-        <section class="section animated">
+<section class="section animated">
             <h2><i class="fas fa-quote-left"></i> Developer Quote</h2>
             <blockquote>
                 <p>"First, solve the problem. Then, write the code."</p>
@@ -414,7 +414,7 @@
             </blockquote>
         </section>
         
-        <section class="section animated">
+<section class="section animated">
             <h2><i class="fas fa-calendar-alt"></i> Contribution Graph</h2>
             <div class="contribution-graph">
                 <!-- This would be generated by GitHub, but we'll simulate it -->
@@ -430,10 +430,10 @@
             </div>
         </section>
         
-        <section class="section animated">
+<section class="section animated">
             <h2><i class="fas fa-hand-wave"></i> Connect With Me</h2>
             
-            <div class="social-links">
+<div class="social-links">
                 <a href="https://github.com/sandeepbist" class="social-link">
                     <i class="fab fa-github"></i>
                 </a>
@@ -453,7 +453,7 @@
         </section>
     </div>
     
-    <script>
+<script>
         // Typing animation
         const texts = [
             "Turning Ideas into Code",
