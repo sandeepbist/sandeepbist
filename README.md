@@ -5,7 +5,7 @@
 <h1 align="center">🚀 Full-Stack Developer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Scalable+SaaS+Architectures;Crafting+Immersive+3D+Web+Experiences;Mastering+Low-Level+System+Design;Turning+Coffee+Into+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Scalable+SaaS+Architectures;Crafting+Immersive+3D+Web+Experiences;Explaining+Code+to+Humans;Turning+Coffee+Into+Commits" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,13 +22,19 @@
 
 ---
 
-### 🌟 About Me
+### ⚡ About Me
 
-[cite_start]I am a **Full Stack Developer** focused on engineering resilient, state-driven applications[cite: 17]. [cite_start]I specialize in **"Contract-First" API development** to eliminate runtime data-mismatch bugs [cite: 23] [cite_start]and designing normalized relational schemas for strict data consistency[cite: 22].
+I am a **Full Stack Developer** passionate about building robust, high-performance web applications. I love solving complex architectural challenges—whether it's ensuring strict data integrity in a SaaS platform or optimizing 3D animations to hit a perfect 60 FPS.
 
-* [cite_start]⚡ **Performance Obsessed:** Proven track record of achieving **100 Lighthouse Scores** and maintaining **60 FPS** in data-heavy applications using advanced virtualization[cite: 19, 33].
-* [cite_start]🛠️ **Systems Engineering:** I go beyond APIs by building tools from scratch, including my own implementations of **Grep, Git, and Redis** to master distributed systems concepts[cite: 39].
-* [cite_start]🏗️ **Scalable Infrastructure:** Experienced in architecting containerized environments (Docker) that guarantee identical behavior from development to production[cite: 24].
+When I'm not shipping code, I'm diving into low-level system design (building my own Git and Redis implementations!) or exploring the latest in the Svelte and React ecosystems. I believe in writing code that is not just functional, but clean, scalable, and maintainable.
+
+---
+
+### 🏆 Achievements & Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sandeepbist&theme=radical&no-frame=true&row=1&column=7&margin-w=15" />
+</div>
 
 ---
 
@@ -43,21 +49,22 @@
 | ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
 | ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white) | ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black) | ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white) |
-| ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=postman&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
 
 </div>
 
 ---
 
-<details open> 
-  <summary><h2>📊 GitHub Stats</h2></summary>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sandeepbist&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180" alt="Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepbist&theme=radical" height="180" alt="Streak" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepbist&layout=compact&theme=radical" height="160" alt="Languages" />
-  </div>
-</details>
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandeepbist&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=sandeepbist&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepbist&theme=radical" height="180" alt="Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepbist&layout=compact&theme=radical" height="160" alt="Languages" />
+</div>
 
 <br/>
 
