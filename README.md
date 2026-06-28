@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hey%20There!👋&fontSize=70&animation=fadeIn&fontAlignY=35&desc=I'm%20Sandeep%20Bist&descSize=20&descAlignY=55" alt="Header" />
 </div>
 
-<h1 align="center">🚀 Full-Stack Developer</h1>
+<h1 align="center">🚀 Full Stack Developer</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Scalable+SaaS+Architectures;Crafting+Immersive+3D+Web+Experiences;Explaining+Code+to+Humans;Turning+Coffee+Into+Commits" alt="Typing SVG" />
@@ -32,7 +32,26 @@ When I am away from the keyboard you will probably find me exploring new tech ex
 
 <br/>
 <br/>
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 
+### 🔭 What I am up to <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Telescope.png" width="35" />
+
+🚀 Actively exploring new paradigms in web development and systems architecture. <br/>
+💡 Tinkering with open source tools and automating random daily tasks. <br/>
+📖 Currently deep diving into Rust and WebGL for fun. <br/>
+🎯 My main goal is to build things that are fast reliable and look amazing! <br/>
+
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+
+### 🤣 Random Dev Joke <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Sweat.png" width="35" />
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" alt="Jokes Card" />
+</div>
+
+<br/>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 
 ### 🛠️ Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="35" />
