@@ -1,0 +1,39 @@
+name: Refresh retro contribution battle
+
+on:
+  schedule:
+    - cron: '23 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: retro-contributions
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+      - name: Install rendering tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          python3 -m pip install -r source/requirements.txt
+      - name: Render current contribution calendar
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 source/contribution-battle.py --username sandeepbist --refresh
+      - name: Save refreshed animation
+        run: |
+          git add assets/contributions-retro.gif assets/contributions-retro.png assets/contributions-mobile-retro.gif assets/contributions-mobile-retro.png source/contributions.json source/battle-hits.json
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Refresh retro contribution animation'
+          git push

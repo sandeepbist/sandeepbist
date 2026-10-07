@@ -1,41 +1,68 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:8b5cf6,100:f472b6&height=230&section=header&text=Hey,%20I'm%20Sandeep.&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Hey, I'm Sandeep." />
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/hero-mobile-retro.png">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/hero-retro.png">
+  <source media="(max-width: 600px)" srcset="./assets/hero-mobile-retro.gif">
+  <img width="100%" src="./assets/hero-retro.gif" alt="Sandeep Bist — retro drone battle, spread-shot pickup, and Iron Warden boss fight.">
+</picture>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=F472B6&center=true&vCenter=true&width=500&lines=Web+projects;Tools+%26+automation;3D+experiments" alt="Web projects, tools and automation, 3D experiments" />
+<br>
 
-  <br/><br/>
-
+<p align="center">
   <a href="https://sandeepbist.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-181825?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Portfolio" />
+    <picture>
+      <source media="(prefers-reduced-motion: reduce)" srcset="./assets/portfolio-retro.png">
+      <img width="32%" src="./assets/portfolio-retro.gif" alt="Portfolio">
+    </picture>
   </a>
   <a href="https://linkedin.com/in/sandeepbist22">
-    <img src="https://img.shields.io/badge/LinkedIn-181825?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" />
+    <picture>
+      <source media="(prefers-reduced-motion: reduce)" srcset="./assets/linkedin-retro.png">
+      <img width="32%" src="./assets/linkedin-retro.gif" alt="LinkedIn">
+    </picture>
   </a>
   <a href="mailto:sbist738@gmail.com">
-    <img src="https://img.shields.io/badge/Email-181825?style=for-the-badge&logo=gmail&logoColor=f472b6" alt="Email" />
+    <picture>
+      <source media="(prefers-reduced-motion: reduce)" srcset="./assets/email-retro.png">
+      <img width="32%" src="./assets/email-retro.gif" alt="Email">
+    </picture>
   </a>
-</div>
+</p>
 
-<br/>
+<a href="https://github.com/sandeepbist">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/contributions-mobile-retro.png">
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/contributions-retro.png">
+    <source media="(max-width: 600px)" srcset="./assets/contributions-mobile-retro.gif">
+    <img width="100%" src="./assets/contributions-retro.gif" alt="Sandeep's real GitHub contribution calendar. A pixel character fires at active days; damage numbers show each day's contribution count.">
+  </picture>
+</a>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" alt="" />
+<br>
 
-<br/>
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/divider-retro.png">
+  <img width="100%" src="./assets/divider-retro.gif" alt="">
+</picture>
 
-I work on different kinds of projects: web stuff, tools, automation, and 3D experiments. I like figuring out how things work under the hood.
+<br>
 
-Currently playing around with Rust and WebGL. Feel free to say hi.
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" alt="" />
-
-<br/>
-
-<div align="center">
-  <img src="https://count.getloli.com/get/@sandeepbist?theme=rule34" alt="Visitor count" />
-
-  <br/><br/>
-
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:8b5cf6,100:f472b6&height=100&section=footer" alt="" />
-</div>
+<table width="100%">
+  <tr>
+    <td align="center">
+      <picture>
+        <source media="(prefers-reduced-motion: reduce)" srcset="./assets/visitors-hud-retro.png">
+        <img width="100%" src="./assets/visitors-hud-retro.gif" alt="Visitors — arcade counter">
+      </picture>
+      <br>
+      <picture>
+        <source media="(prefers-reduced-motion: reduce)" srcset="./assets/visitor-player-retro.png">
+        <img width="12%" src="./assets/visitor-player-retro.gif" alt="">
+      </picture>
+      <img width="64%" src="https://count.getloli.com/get/@sandeepbist?theme=3d-num&amp;padding=7&amp;darkmode=0&amp;pixelated=1" alt="Live visitor count">
+      <picture>
+        <source media="(prefers-reduced-motion: reduce)" srcset="./assets/visitor-drone-retro.png">
+        <img width="12%" src="./assets/visitor-drone-retro.gif" alt="">
+      </picture>
+    </td>
+  </tr>
+</table>
