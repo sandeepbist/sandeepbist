@@ -1,72 +1,72 @@
 {
   "username": "sandeepbist",
-  "totalContributions": 2216,
-  "shuffleSeed": "2026-10-19",
+  "totalContributions": 2218,
+  "shuffleSeed": "2026-10-20",
   "weaponUpgradeAfterHits": 4,
   "hits": [
     {
-      "date": "2025-12-25",
+      "date": "2025-11-29",
+      "damage": 3
+    },
+    {
+      "date": "2025-11-10",
+      "damage": 5
+    },
+    {
+      "date": "2026-03-03",
+      "damage": 5
+    },
+    {
+      "date": "2026-02-14",
+      "damage": 2
+    },
+    {
+      "date": "2025-10-31",
       "damage": 7
     },
     {
-      "date": "2025-11-28",
+      "date": "2026-06-17",
+      "damage": 1
+    },
+    {
+      "date": "2025-12-24",
       "damage": 4
+    },
+    {
+      "date": "2025-11-30",
+      "damage": 3
+    },
+    {
+      "date": "2026-02-07",
+      "damage": 5
+    },
+    {
+      "date": "2026-06-02",
+      "damage": 1
     },
     {
       "date": "2026-09-02",
       "damage": 157
     },
     {
-      "date": "2026-02-13",
-      "damage": 7
-    },
-    {
-      "date": "2026-08-29",
-      "damage": 10
-    },
-    {
-      "date": "2026-09-29",
-      "damage": 5
-    },
-    {
-      "date": "2026-04-17",
-      "damage": 2
-    },
-    {
-      "date": "2026-10-01",
-      "damage": 21
-    },
-    {
-      "date": "2026-10-06",
-      "damage": 2
-    },
-    {
-      "date": "2026-03-04",
+      "date": "2026-07-19",
       "damage": 3
     },
     {
-      "date": "2025-11-27",
-      "damage": 4
-    },
-    {
-      "date": "2026-01-25",
-      "damage": 2
-    },
-    {
-      "date": "2025-10-29",
-      "damage": 1
-    },
-    {
-      "date": "2026-05-21",
-      "damage": 1
-    },
-    {
-      "date": "2025-12-09",
+      "date": "2025-11-03",
       "damage": 3
     },
     {
-      "date": "2026-06-25",
-      "damage": 4
+      "date": "2026-06-22",
+      "damage": 2
+    },
+    {
+      "date": "2026-01-23",
+      "damage": 6
+    },
+    {
+      "date": "2026-04-20",
+      "damage": 3
     }
   ]
 }
