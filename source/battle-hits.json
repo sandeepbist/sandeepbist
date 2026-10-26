@@ -1,72 +1,72 @@
 {
   "username": "sandeepbist",
-  "totalContributions": 2240,
-  "shuffleSeed": "2026-10-25",
+  "totalContributions": 2219,
+  "shuffleSeed": "2026-10-26",
   "weaponUpgradeAfterHits": 4,
   "hits": [
     {
-      "date": "2025-12-16",
-      "damage": 4
-    },
-    {
-      "date": "2026-05-12",
-      "damage": 1
-    },
-    {
-      "date": "2026-08-31",
-      "damage": 63
-    },
-    {
-      "date": "2026-09-13",
-      "damage": 13
-    },
-    {
-      "date": "2026-09-10",
-      "damage": 68
-    },
-    {
-      "date": "2026-03-13",
+      "date": "2025-12-27",
       "damage": 3
     },
     {
-      "date": "2025-10-28",
+      "date": "2026-02-23",
+      "damage": 2
+    },
+    {
+      "date": "2026-07-19",
       "damage": 3
-    },
-    {
-      "date": "2025-11-25",
-      "damage": 4
-    },
-    {
-      "date": "2025-12-30",
-      "damage": 4
-    },
-    {
-      "date": "2026-07-04",
-      "damage": 19
-    },
-    {
-      "date": "2026-05-16",
-      "damage": 2
-    },
-    {
-      "date": "2026-10-14",
-      "damage": 2
     },
     {
       "date": "2026-10-09",
       "damage": 11
     },
     {
-      "date": "2026-02-20",
-      "damage": 1
-    },
-    {
-      "date": "2026-02-28",
-      "damage": 1
-    },
-    {
       "date": "2026-09-02",
       "damage": 157
+    },
+    {
+      "date": "2026-03-11",
+      "damage": 1
+    },
+    {
+      "date": "2026-09-13",
+      "damage": 13
+    },
+    {
+      "date": "2026-08-13",
+      "damage": 1
+    },
+    {
+      "date": "2026-01-23",
+      "damage": 6
+    },
+    {
+      "date": "2025-11-27",
+      "damage": 4
+    },
+    {
+      "date": "2026-07-18",
+      "damage": 3
+    },
+    {
+      "date": "2025-10-30",
+      "damage": 3
+    },
+    {
+      "date": "2026-06-13",
+      "damage": 2
+    },
+    {
+      "date": "2025-12-01",
+      "damage": 7
+    },
+    {
+      "date": "2026-06-17",
+      "damage": 1
+    },
+    {
+      "date": "2026-07-13",
+      "damage": 3
     }
   ]
 }
