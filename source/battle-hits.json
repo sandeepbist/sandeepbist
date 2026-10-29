@@ -1,72 +1,72 @@
 {
   "username": "sandeepbist",
-  "totalContributions": 2230,
-  "shuffleSeed": "2026-10-28",
+  "totalContributions": 2243,
+  "shuffleSeed": "2026-10-29",
   "weaponUpgradeAfterHits": 4,
   "hits": [
     {
-      "date": "2025-12-10",
+      "date": "2025-10-31",
       "damage": 7
-    },
-    {
-      "date": "2026-07-06",
-      "damage": 6
-    },
-    {
-      "date": "2025-12-11",
-      "damage": 5
-    },
-    {
-      "date": "2026-02-07",
-      "damage": 5
-    },
-    {
-      "date": "2026-02-15",
-      "damage": 3
-    },
-    {
-      "date": "2026-10-23",
-      "damage": 11
-    },
-    {
-      "date": "2026-04-04",
-      "damage": 1
-    },
-    {
-      "date": "2026-06-26",
-      "damage": 2
-    },
-    {
-      "date": "2025-11-13",
-      "damage": 4
     },
     {
       "date": "2026-09-02",
       "damage": 157
     },
     {
-      "date": "2026-09-13",
-      "damage": 13
-    },
-    {
-      "date": "2025-12-27",
-      "damage": 3
-    },
-    {
-      "date": "2026-02-14",
-      "damage": 2
-    },
-    {
-      "date": "2025-11-08",
-      "damage": 3
-    },
-    {
-      "date": "2026-02-20",
+      "date": "2026-03-17",
       "damage": 1
     },
     {
-      "date": "2026-10-15",
-      "damage": 19
+      "date": "2026-05-14",
+      "damage": 3
+    },
+    {
+      "date": "2025-11-29",
+      "damage": 3
+    },
+    {
+      "date": "2026-06-13",
+      "damage": 2
+    },
+    {
+      "date": "2025-11-03",
+      "damage": 3
+    },
+    {
+      "date": "2026-02-03",
+      "damage": 20
+    },
+    {
+      "date": "2026-01-27",
+      "damage": 10
+    },
+    {
+      "date": "2026-08-17",
+      "damage": 6
+    },
+    {
+      "date": "2026-01-13",
+      "damage": 4
+    },
+    {
+      "date": "2026-03-26",
+      "damage": 1
+    },
+    {
+      "date": "2026-08-14",
+      "damage": 1
+    },
+    {
+      "date": "2026-01-30",
+      "damage": 18
+    },
+    {
+      "date": "2026-10-06",
+      "damage": 2
+    },
+    {
+      "date": "2025-11-20",
+      "damage": 2
     }
   ]
 }
