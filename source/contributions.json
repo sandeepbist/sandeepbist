@@ -8,52 +8,6 @@
             {
               "contributionDays": [
                 {
-                  "date": "2025-10-26",
-                  "contributionCount": 2,
-                  "contributionLevel": "FIRST_QUARTILE",
-                  "weekday": 0
-                },
-                {
-                  "date": "2025-10-27",
-                  "contributionCount": 2,
-                  "contributionLevel": "FIRST_QUARTILE",
-                  "weekday": 1
-                },
-                {
-                  "date": "2025-10-28",
-                  "contributionCount": 3,
-                  "contributionLevel": "FIRST_QUARTILE",
-                  "weekday": 2
-                },
-                {
-                  "date": "2025-10-29",
-                  "contributionCount": 1,
-                  "contributionLevel": "FIRST_QUARTILE",
-                  "weekday": 3
-                },
-                {
-                  "date": "2025-10-30",
-                  "contributionCount": 3,
-                  "contributionLevel": "FIRST_QUARTILE",
-                  "weekday": 4
-                },
-                {
-                  "date": "2025-10-31",
-                  "contributionCount": 7,
-                  "contributionLevel": "FIRST_QUARTILE",
-                  "weekday": 5
-                },
-                {
-                  "date": "2025-11-01",
-                  "contributionCount": 2,
-                  "contributionLevel": "FIRST_QUARTILE",
-                  "weekday": 6
-                }
-              ]
-            },
-            {
-              "contributionDays": [
-                {
                   "date": "2025-11-02",
                   "contributionCount": 3,
                   "contributionLevel": "FIRST_QUARTILE",
@@ -2440,6 +2394,16 @@
                   "contributionCount": 0,
                   "contributionLevel": "NONE",
                   "weekday": 6
+                }
+              ]
+            },
+            {
+              "contributionDays": [
+                {
+                  "date": "2026-11-01",
+                  "contributionCount": 0,
+                  "contributionLevel": "NONE",
+                  "weekday": 0
                 }
               ]
             }
