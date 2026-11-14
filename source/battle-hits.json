@@ -1,72 +1,72 @@
 {
   "username": "sandeepbist",
-  "totalContributions": 2209,
-  "shuffleSeed": "2026-11-13",
+  "totalContributions": 2210,
+  "shuffleSeed": "2026-11-14",
   "weaponUpgradeAfterHits": 4,
   "hits": [
     {
-      "date": "2026-07-19",
-      "damage": 3
-    },
-    {
-      "date": "2026-06-11",
-      "damage": 33
-    },
-    {
-      "date": "2026-05-19",
-      "damage": 3
-    },
-    {
-      "date": "2026-08-14",
+      "date": "2026-07-14",
       "damage": 1
     },
     {
-      "date": "2026-08-24",
-      "damage": 41
+      "date": "2026-06-22",
+      "damage": 2
     },
     {
-      "date": "2026-08-16",
-      "damage": 1
-    },
-    {
-      "date": "2026-02-24",
-      "damage": 3
-    },
-    {
-      "date": "2026-08-28",
-      "damage": 14
-    },
-    {
-      "date": "2026-09-23",
-      "damage": 52
-    },
-    {
-      "date": "2026-07-15",
-      "damage": 4
-    },
-    {
-      "date": "2026-08-23",
-      "damage": 1
-    },
-    {
-      "date": "2025-11-30",
-      "damage": 3
-    },
-    {
-      "date": "2026-05-29",
-      "damage": 1
-    },
-    {
-      "date": "2026-10-25",
-      "damage": 3
+      "date": "2026-04-06",
+      "damage": 2
     },
     {
       "date": "2026-09-02",
       "damage": 157
     },
     {
-      "date": "2026-03-02",
-      "damage": 5
+      "date": "2026-02-22",
+      "damage": 2
+    },
+    {
+      "date": "2026-01-31",
+      "damage": 10
+    },
+    {
+      "date": "2026-05-22",
+      "damage": 1
+    },
+    {
+      "date": "2026-09-04",
+      "damage": 1
+    },
+    {
+      "date": "2026-01-16",
+      "damage": 1
+    },
+    {
+      "date": "2026-10-16",
+      "damage": 3
+    },
+    {
+      "date": "2026-02-25",
+      "damage": 2
+    },
+    {
+      "date": "2026-02-20",
+      "damage": 1
+    },
+    {
+      "date": "2026-01-05",
+      "damage": 7
+    },
+    {
+      "date": "2026-01-10",
+      "damage": 6
+    },
+    {
+      "date": "2026-10-10",
+      "damage": 1
+    },
+    {
+      "date": "2026-04-04",
+      "damage": 1
     }
   ]
 }
