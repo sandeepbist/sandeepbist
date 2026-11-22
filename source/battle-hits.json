@@ -1,72 +1,72 @@
 {
   "username": "sandeepbist",
-  "totalContributions": 2193,
-  "shuffleSeed": "2026-11-21",
+  "totalContributions": 2197,
+  "shuffleSeed": "2026-11-22",
   "weaponUpgradeAfterHits": 4,
   "hits": [
     {
-      "date": "2026-02-17",
-      "damage": 12
-    },
-    {
-      "date": "2026-10-29",
-      "damage": 13
-    },
-    {
-      "date": "2026-01-06",
+      "date": "2025-12-06",
       "damage": 2
     },
     {
-      "date": "2026-01-25",
-      "damage": 2
-    },
-    {
-      "date": "2025-11-19",
-      "damage": 4
-    },
-    {
-      "date": "2026-02-09",
-      "damage": 1
-    },
-    {
-      "date": "2026-05-26",
+      "date": "2026-09-15",
       "damage": 3
     },
     {
-      "date": "2026-08-30",
-      "damage": 26
-    },
-    {
-      "date": "2026-05-04",
-      "damage": 1
-    },
-    {
-      "date": "2026-06-14",
-      "damage": 1
-    },
-    {
-      "date": "2026-05-06",
-      "damage": 1
-    },
-    {
-      "date": "2025-12-26",
-      "damage": 5
-    },
-    {
-      "date": "2026-08-02",
+      "date": "2026-04-15",
       "damage": 2
     },
     {
-      "date": "2026-07-06",
-      "damage": 6
-    },
-    {
-      "date": "2026-07-20",
-      "damage": 14
+      "date": "2026-02-25",
+      "damage": 2
     },
     {
       "date": "2026-09-02",
       "damage": 157
+    },
+    {
+      "date": "2026-03-16",
+      "damage": 2
+    },
+    {
+      "date": "2026-05-14",
+      "damage": 3
+    },
+    {
+      "date": "2026-08-18",
+      "damage": 1
+    },
+    {
+      "date": "2026-05-13",
+      "damage": 1
+    },
+    {
+      "date": "2026-01-02",
+      "damage": 4
+    },
+    {
+      "date": "2026-01-21",
+      "damage": 6
+    },
+    {
+      "date": "2026-02-23",
+      "damage": 2
+    },
+    {
+      "date": "2026-04-25",
+      "damage": 2
+    },
+    {
+      "date": "2026-08-09",
+      "damage": 3
+    },
+    {
+      "date": "2026-10-27",
+      "damage": 4
+    },
+    {
+      "date": "2026-04-10",
+      "damage": 2
     }
   ]
 }
